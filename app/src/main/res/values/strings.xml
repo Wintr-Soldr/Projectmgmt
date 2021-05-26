@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">Projectmgmt</string>
+    <string name="task_name">Task Name</string>
+    <string name="developer">Developer</string>
+    <string name="dept">Department</string>
+    <string name="list">List</string>
+
+    <string-array name="department">
+        <item>Development</item>
+        <item>Marketing</item>
+        <item>Business</item>
+    </string-array>
+
+    <string-array name="developers">
+        <item>Frontend</item>
+        <item>Backend</item>
+        <item>Fullstack</item>
+        <item>Android</item>
+        <item>iOS</item>
+    </string-array>
+
+    <string-array name="listarray">
+        <item>Diya Mourya</item>
+        <item>Priyal Kumawat</item>
+        <item>Ankita Dey</item>
+        <item>Rohan Garg</item>
+    </string-array>
 </resources>
